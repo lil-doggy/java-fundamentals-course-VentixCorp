@@ -28,7 +28,7 @@ src/
 
 1. Descarga el programa:
 ```bash
-https://github.com/lil-doggy/DesafiaTuMente.git
+https://github.com/lil-doggy/java-fundamentals-course-VentixCorp.git
 ```
 2. Abre el proyecto en tu IDE de confianza
 3. Ejecuta el archivo:
@@ -37,6 +37,7 @@ main.java
 ````
 🛠️ Tecnologías usadas
 Java 
-Git & GitHub
+GitHub
+OnlineGDB
 
 Proyecto creado por VentixCorp
