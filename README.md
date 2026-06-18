@@ -24,32 +24,32 @@ https://github.com/lil-doggy/java-fundamentals-course-VentixCorp
 
 ---
 
-### Lección 1: ¿Qué es Java y la programación? (5 minutos)
+### Lección 1: ¿Qué es Java y la programación? (8 minutos)
 
 - **Descripción**: Introducción a la programación y Java como lenguaje.
-- **Enlace**: https://www.youtube.com/watch?v=example-link1
+- **Enlace**: https://youtu.be/rTbuLkCbqls?si=Vurpmh3bwKAZEOwK
 - **Conclusiones clave**:
   - Java es un lenguaje de programación ampliamente usado
   - Los programas son instrucciones para la computadora
-- **Práctica online**: https://replit.com/languages/java10
+- **Práctica online**: https://www.onlinegdb.com/online_java_compiler
 
 ---
 
-### Lección 2: Variables y tipos de datos (8 minutos)
+### Lección 2: Variables y tipos de datos (7:50 minutos)
 
 - **Descripción**: Aprender a almacenar información en Java.
-- **Enlace**: https://www.youtube.com/watch?v=example-link2
+- **Enlace**: https://youtu.be/5DjPNr_S_hU?si=UVGEJG2WSoZYYrlp
 - **Conclusiones clave**:
   - int, String, boolean
   - Ejemplo: int edad = 15;
-- **Práctica online**: https://www.jdoodle.com/online-java-compiler
+- **Práctica online**: https://www.onlinegdb.com/online_java_compiler
 
 ---
 
-### Lección 3: Estructuras de control (10 minutos)
+### Lección 3: Estructuras de control (7:30 minutos)
 
 - **Descripción**: Condiciones y bucles en Java.
-- **Enlace**: https://www.youtube.com/watch?v=example-link3
+- **Enlace**: https://youtu.be/6DKjnCOcmkU?si=vLq-wOJ2UnPmQqNO
 - **Conclusiones clave**:
   - if / else
   - for / while
@@ -57,14 +57,14 @@ https://github.com/lil-doggy/java-fundamentals-course-VentixCorp
 
 ---
 
-### Lección 4: Métodos y entrada de datos (10 minutos)
+### Lección 4: Métodos y entrada de datos (8 minutos)
 
 - **Descripción**: Crear funciones y usar Scanner.
-- **Enlace**: https://www.youtube.com/watch?v=example-link4
+- **Enlace**: https://youtu.be/APFNuSrWKJU?si=qRsbYzQ7E64kSSiF
 - **Conclusiones clave**:
   - Métodos reutilizables
   - Entrada de usuario con Scanner
-- **Práctica online**: https://replit.com/languages/java10
+- **Práctica online**: https://www.onlinegdb.com/online_java_compiler
 
 ---
 
