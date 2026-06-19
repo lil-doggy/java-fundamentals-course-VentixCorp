@@ -70,11 +70,14 @@ https://github.com/lil-doggy/java-fundamentals-course-VentixCorp
 
 ### Lección 5: Introducción a POO (12 minutos)
 
-- **Descripción**: Clases, objetos y constructores.
-- **Enlace**: https://www.youtube.com/watch?v=example-link5
+- **Descripción**: Clases, objetos y constructores, encapsulamiento y arrays.
+- **Enlace**: https://youtu.be/0oyG7aP9k4w
 - **Conclusiones clave**:
   - Clase = molde
   - Objeto = instancia
+  - Encapsulamiento = proteccion de datos
+  - Instacion = crear objetos con valores propios
+  - Array y cadenas = organizacion de datos y textos simples 
 - **Práctica online**: https://www.jdoodle.com/online-java-compiler
 
 ---
